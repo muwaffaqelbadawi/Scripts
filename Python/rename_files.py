@@ -1,9 +1,6 @@
 from pathlib import Path
 import shutil
 
-
-
-
 def rename_files(
     root: Path,
     old_name: str,
